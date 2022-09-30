@@ -22,10 +22,10 @@ export default function Home() {
           </h1>
           <div className="flex gap-2">
             <a href="https://github.com/lk321" className="hover:scale-125">
-              <Image src="/assets/github.svg" height={50} width={50} />
+              <Image src="/assets/github.svg" height={45} width={45} />
             </a>
             <a href="https://twitter.com/iantxd" className="hover:rotate-45">
-              <Image src="/assets/twitter.svg" height={46} width={46} />
+              <Image src="/assets/twitter.svg" height={45} width={45} />
             </a>
             <a href="https://www.linkedin.com/in/iantonio" className="hover:translate-y-2">
               <Image src="/assets/linkedin.svg" height={45} width={45} />
